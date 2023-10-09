@@ -16,5 +16,6 @@
 3. 在项目目录中运行`main.py`来启动工具。
 4. 按照GUI提示操作。
 
-![image](https://github.com/0xmelon/BatchTextReplacer/assets/92585241/9855bfe6-026d-462d-9516-e74df58a845f)
+## 演示
 
+![GIF 2023-10-9 22-48-02](https://github.com/0xmelon/BatchTextReplacer/assets/92585241/c9a6b250-c942-444e-ade5-974a391e2be7)
