@@ -11,13 +11,13 @@
 
 ## 如何使用
 
-###自行编译
+### 自行编译
 1. 克隆仓库到本地或下载源代码。
 2. 确保您的计算机上已安装Python。
 3. 在项目目录中运行`main.py`来启动工具。
 4. 按照GUI提示操作。
 
-###直接打开
+### 直接打开
 进入[Releases v1](https://github.com/jiamin-lin/BatchTextReplacer/releases/tag/v1)进行下载使用。
 
 ## 演示
