@@ -18,7 +18,7 @@
 4. 按照GUI提示操作。
 
 ### 直接打开
-进入[Releases v1](https://github.com/jiamin-lin/BatchTextReplacer/releases/tag/v1)进行下载使用。
+进入[Releases页面](https://github.com/jiamin-lin/BatchTextReplacer/releases/tag/v1)进行下载使用。
 
 ## 演示
 
